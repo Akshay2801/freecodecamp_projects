@@ -1,0 +1,40 @@
+
+    .backimage{
+  background-color:#90CAF9;
+  height: 500px;
+  
+}
+.container-fluid{
+  background-image:url("https://www.google.co.in/search?rlz=1C1CHBF_enIN772IN772&biw=1366&bih=662&tbm=isch&sa=1&ei=SeFgWr3xBcHcvgSQx4v4CQ&q=background+images&oq=background+images&gs_l=psy-ab.3..0i67k1l3j0l7.263661.263661.0.264173.1.1.0.0.0.0.179.179.0j1.1.0....0...1c.1.64.psy-ab..0.1.179....0.THYPIkcu1Y4#imgrc=P077mh_bGh_AEM:");
+  background-repeat: repeat-x;
+}
+.btn{
+    color: white;
+    background-color: #5bc0de;
+    border-color: #dddd;
+    margin-left: -17px;
+    margin-top: 20px;
+    }
+.quote{
+  font-size:30px;
+}
+
+.author{
+  font-style:italic;
+  font-size: 20px;
+}
+.quotes{
+ 
+  width:33%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 20px;
+  height:auto;
+  color:#ddd;
+  margin-bottom: 50px;
+  margin-top: 57px;
+}
